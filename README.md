@@ -562,3 +562,5 @@ It showcases practical implementation of:
 The final outcome is a structured stock market data pipeline that transforms Yahoo Finance API responses into analytical datasets for historical stock performance analysis and reporting.
 
 # Medallion Architecture Diagram
+
+<img src="https://github.com/2003ohith/DE_Stock_Analysis_MicrosoftFabric_ETL_project/blob/main/Microsoft_Fabric_Stock_Analysis_Data_Engineering_Medallion_Architecture.png" alt="Microsoft Fabric Stock Analysis Project Architecture" width="900">
